@@ -2,6 +2,10 @@
 
 A command-line tool that lets a **Sender** sign files and a **Receiver** verify their integrity and origin using **SHA-256 hashing** and **RSA digital signatures**.
 
+## Demo
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/NNgYIUrmYuU/maxresdefault.jpg)](https://youtu.be/NNgYIUrmYuU)
+
 ## Requirements
 
 - Python 3.8+
